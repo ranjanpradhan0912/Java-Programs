@@ -1,0 +1,4 @@
+A Java Programming Guide
+
+This guide contains short codes to understand the fundamentals
+of the Java Language.
